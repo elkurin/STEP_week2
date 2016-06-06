@@ -1,0 +1,11 @@
+matrix.*
+が行列積の計算プログラム
+
+time_matrix_*.log
+がそれぞれの言語での計測時間
+
+figure_*.png
+がそれぞれの言語での計測時間をグラフにプロットしたもの
+
+figure_plot.png
+は考察のためにf(x) = a * x ** 3 の曲線をfitしたもの
