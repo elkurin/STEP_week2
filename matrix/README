@@ -9,3 +9,6 @@ figure_*.png
 
 figure_plot.png
 は考察のためにf(x) = a * x ** 3 の曲線をfitしたもの
+
+figure_single.png
+は計算時間をそれぞれの計算量で割ったもの
